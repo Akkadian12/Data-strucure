@@ -22,7 +22,7 @@ int main()
         if(count>1)
         {
             printf("%c appeared %d times",A[i],count);
-            printf("\n");
+            cout<<endl;
         }
     }
    
